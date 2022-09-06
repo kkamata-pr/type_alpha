@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+body {
+  font-family: "Nunito", sans-serif, Arial, Helvetica, sans-serif;
+  font-size: 0.9rem;
+  line-height: 1.6;
+  /* background-color: #f8fafc; */
+  background-color: #ffffff8a;
+}
+.container {
+  background-color: #ffff2f8a;
+}
+.l-block, .contents{
+  background-color: #a8a8a8;
+  color: #ffffff;
+}
+
+#typed {
+  color: red;
+}
+
+#type-area {
+  width: 100%;
+  border: solid 1px #dfd8d8;
+}
+
+#type-mirror {
+  color: red;
+}
+/*# sourceMappingURL=style.css.map */
